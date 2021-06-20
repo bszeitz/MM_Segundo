@@ -1,9 +1,3 @@
-#---
-#title: "MM Segundo - Suppl.Figure 3"
-#author: "Bea Szeitz"
-#date: '2021 06 20'
-#---
-
 
 #### Suppl.Figure 3A
 
