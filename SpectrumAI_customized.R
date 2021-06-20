@@ -1,9 +1,3 @@
-#---
-#title: "Customized SpectrumAI script for SAAV chapter"
-#author: "Bea Szeitz"
-#date: '2021 06 20'
-#---
-
 # Original script was downloaded from:
 # https://github.com/yafeng/SpectrumAI
 
