@@ -1,8 +1,3 @@
-#---
-#title: "Heatmap for MM Segundo - Figure 1A"
-#author: "Bea Szeitz"
-#date: '2021 06 20'
-#---
 
 ######################################
 #### Read in the files
