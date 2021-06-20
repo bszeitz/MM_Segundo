@@ -7,4 +7,4 @@ Scripts for MM Segundo publication
 
 ### Scripts for figures
  - Fig1A_heatmap: script for Figure 1A heatmap
- - FigS3_OmicCircos: script for FigS3A&B
+ - FigS3_OmicCircos: script for Suppl. Fig3A&B
