@@ -140,7 +140,7 @@ InspectSpectrum <- function (DF, SpectraFile){
 
 start.time <- Sys.time()
 
-source('2_SpectrumAI_Spectra_functions.R')
+source('SpectrumAI_SpectraFunctions.R')
 options(stringsAsFactors = FALSE)
 
 df.psm=readxl::read_xlsx(infile_name, sheet=1)
