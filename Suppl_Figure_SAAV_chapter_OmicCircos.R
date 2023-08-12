@@ -1,5 +1,5 @@
 
-#### Suppl.Figure 3A
+#### Suppl.Figure for SAAV chapter (OmicCircos plot)
 
 options(stringsAsFactors = F)
 library(OmicCircos)
@@ -8,7 +8,7 @@ library(readxl)
 
 setwd("C:/Users/User/PhD/MM_segundo/")
 
-excelfile <- "SAAV_chapter_SupplTable_vs17May2021.xlsx"
+excelfile <- "SAAV_chapter_SupplTable_final.xlsx"
 Verified.SAAVs <- as.data.frame(read_xlsx(excelfile, sheet=2))
 
 Verified.SAAVs$Name <- paste(Verified.SAAVs$Master.Protein.Accession, Verified.SAAVs$Mutation.in.isoform, sep="_")
@@ -169,7 +169,7 @@ all(seg.f.mydata$seg.End == seg.v.mydata$End)
 
 
 
-#### Suppl.Figure 3B
+#### Suppl.Figure for correlation analyis
 
 cor.test(as.numeric(Verified.SAAVs$PSM.ratio), 
          as.numeric(Verified.SAAVs$Alt.AF.EU), 

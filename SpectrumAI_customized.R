@@ -1,6 +1,6 @@
 # Original script was downloaded from:
 # https://github.com/yafeng/SpectrumAI
-
+# Published in Zhu et al., 2018, PMID: 29500430
 
 #if (!requireNamespace("BiocManager", quietly = TRUE))
 #  install.packages("BiocManager")

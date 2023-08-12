@@ -1,4 +1,8 @@
-#downloaded from https://github.com/yafeng/SpectrumAI/blob/master/Spectra_functions.R
+# Original script was downloaded from:
+# https://github.com/yafeng/SpectrumAI
+# Published in Zhu et al., 2018, PMID: 29500430
+
+# Script accessed from: https://github.com/yafeng/SpectrumAI/blob/master/Spectra_functions.R
 
 require(mzR)
 require(protViz)
